@@ -18,3 +18,7 @@ print(sys.executable)
 
 print("current directory")
 print(os.getcwd())
+
+print('git status')
+
+console.log('test');
